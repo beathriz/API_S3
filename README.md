@@ -1,5 +1,6 @@
 # data_analytics-python
-Este é um projeto de análise de dados com as seguintes etapas:  Coleta de dados - Limpeza de dados - Exploração dos dados - Modelagem - Comunicação de resultados (dashboards) 
+Este é um projeto de coleta de dados de redes sociais. 
 
-Para este projeto foram usados:
-Web scraping para extrair dados de sites da web, usando APIs para obter dados de fontes online; 
+Arquivos 
+conect_APY: Conexão com API python
+page: página web para requerimento 
