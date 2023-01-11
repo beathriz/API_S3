@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Simple Website</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Seja bem vindo</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p>This is a simple website created using HTML, CSS, and JavaScript.</p>
+    </section>
+    <section id="services">
+      <h2>Services</h2>
+      <p>We offer a variety of services, including web development and design.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>You can contact us by email at contact@mysimplewebsite.com.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright © 2021 My Simple Website</p>
+  </footer>
+</body>
+</html>
