@@ -19,4 +19,4 @@ print("Following: ", profile.followees)
 print("Is private: ", profile.is_private)
 
 # download profile picture
-L.download_profile(profile, "/home/beathrizdev/Desktop")
+L.download_profile(profile, "#caminhodesktop")
